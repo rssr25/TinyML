@@ -1,0 +1,7 @@
+#include "tensorflow-master/tensorflow/lite/micro/all_ops_resolver.h"
+#include "tensorflow-master/tensorflow/lite/micro/examples/hello_world/model.h"
+#include "tensorflow-master/tensorflow/lite/micro/micro_error_reporter.h"
+#include "tensorflow-master/tensorflow/lite/micro/micro_interpreter.h"
+#include "tensorflow-master/tensorflow/lite/micro/testing/micro_test.h"
+#include "tensorflow-master/tensorflow/lite/schema/schema_generated.h"
+#include "tensorflow-master/tensorflow/lite/version.h"
